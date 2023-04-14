@@ -21,7 +21,7 @@ order to generate more in depth information on UFO Sightings.
 ## Summary
 
 ### Drawback
-I would recommend creating dropdown list in the search filter boxes because having to randomly enter in information could be cumbersome.
+I would recommend creating a dropdown list in the search filter boxes because having to randomly enter in information could be cumbersome.
 
 ### Recommendations
 Please find below my recommendations for further development of this webpage:
