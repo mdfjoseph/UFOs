@@ -16,15 +16,15 @@ The following search criteria was added: city, state, country and shape.
 
 Updating the webpage by adding more search options allows users to filter through multiple criteria at the same time.  There are now five (5) search 
 filters for users:  1.  Date, 2. City, 3. State, 4. Country, and 5. Shape.  Users can enter in information for one search filter box or all of them in
-order to generate more in depth informaiton on UFO Sightings.
+order to generate more in depth information on UFO Sightings.
 
 ## Summary
 
 ### Drawback
-I would recommend creating dropdown arrow boxes so users can see a list of options and click on a specific one.  Having to randomly enter in information 
-could be cumbersome.
+I would recommend creating dropdown list in the search filter boxes because having to randomly enter in information could be cumbersome.
 
 ### Recommendations
+Please find below my recommendations for further development of this webpage:
 1.  Adding graphics and videos of the UFO Sightings would be great!
 2.  Adding and/or offering more commentary when a search is generated would also attract more users to the site.
 
